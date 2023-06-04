@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "2n462J24Ws8Ri0dFu581kilgrCv2IjRFTZ64eBgqF6Oa/fl37e21SU3AZiIpKVA4LMWVocRKtNqKFVy4yzAc5A==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Dmitry\\Source\\GG\\GG.Server\\GG.Server.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\' doesn't exist.",
+      "libraryId": "Microsoft.AspNetCore.OpenApi"
+    }
+  ]
+}
